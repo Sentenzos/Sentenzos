@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a frontend developer with over 5 years of experience.
+- I’m currently learning Java at Hexlet
+- How to reach me: sentenzo@hotmail.com
 <!--
 **Sentenzos/Sentenzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
