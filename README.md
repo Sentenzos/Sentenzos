@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a frontend developer with over 5 years of experience.
+- I'm a frontend developer with over 6 years of experience.
 - I’m currently learning Java at Hexlet
 - How to reach me: sentenzo@hotmail.com
 
